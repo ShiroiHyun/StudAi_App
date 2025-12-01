@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">InclusiveStudAI</string>
+    <string name="title_activity_main">InclusiveStudAI</string>
+    <string name="package_name">com.studai.app</string>
+    <string name="custom_url_scheme">com.studai.app</string>
+</resources>
